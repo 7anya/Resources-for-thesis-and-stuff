@@ -20,7 +20,7 @@ Helpful links
 - ETH http://people.inf.ethz.ch/troscoe/ - This guys website has good info on ETH programs. Also invites thesis in Distributed Systems
 - Stanford https://cs.stanford.edu/research/computer-systems
 - UCBerkeley https://www2.eecs.berkeley.edu/Research/Areas/OSNT/
-
+- Harvard https://www.seas.harvard.edu/computer-science/faculty-research
 A, A-,A-, B, A, A-,A- 
 
 
