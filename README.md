@@ -17,6 +17,7 @@ Helpful links
 - https://inf.ethz.ch/research/networked-systems-parallel-computing.html
 - https://www.tum.de/en/studies/degree-programs/detail/detail/StudyCourse/computational-science-and-engineering-cse-master-of-science-msc/
 - Guy working on QUIC https://netsec.ethz.ch/people/aperrig/
+- http://people.inf.ethz.ch/troscoe/ - This guys website has good info on ETH programs. Also invites thesis in Distributed Systems
 
 A, A-,A-, B, A, A-,A- 
 
