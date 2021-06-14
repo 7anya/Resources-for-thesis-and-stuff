@@ -34,6 +34,7 @@ Helpful links
 - [USC](https://www.cs.usc.edu/research/research-areas-labs/#systems)
 - [U of Michigan](https://cse.engin.umich.edu/research/research-areas/networking-operating-systems-distributed-systems/)
 - [Caltech](https://cms.caltech.edu/research/networked)
+- [University of Waterloo](https://cs.uwaterloo.ca/research/research-areas/systems-and-networking)
 
 A, A-,A-, B, A, A-,A- 
 
