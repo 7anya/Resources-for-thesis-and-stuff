@@ -25,6 +25,8 @@ Helpful links
 - UT Austin https://www.cs.utexas.edu/research/areas/operating-systems-distributed-systems-and-networking
 - [Uiversity of Chicago]( https://computerscience.uchicago.edu/research/research-areas/)
 - [UIUC]( https://cs.illinois.edu/research/areas)
+- [Brown University](https://cs.brown.edu/research/areas.html)
+- [U penn](https://highlights.cis.upenn.edu/cis-research-areas/)
 
 A, A-,A-, B, A, A-,A- 
 
