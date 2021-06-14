@@ -15,7 +15,7 @@ Helpful links
 - University of british columbia https://systopia.cs.ubc.ca/news
 - U of Toronto http://csng.cs.toronto.edu/research.php
 - ETH https://inf.ethz.ch/research/networked-systems-parallel-computing.html
-- (Technical Univeristy of Munich )[https://www.tum.de/en/studies/degree-programs/detail/detail/StudyCourse/computational-science-and-engineering-cse-master-of-science-msc/]
+- [Technical Univeristy of Munich ](https://www.tum.de/en/studies/degree-programs/detail/detail/StudyCourse/computational-science-and-engineering-cse-master-of-science-msc/)
 - ETH Guy working on QUIC https://netsec.ethz.ch/people/aperrig/
 - ETH http://people.inf.ethz.ch/troscoe/ - This guys website has good info on ETH programs. Also invites thesis in Distributed Systems
 - Stanford https://cs.stanford.edu/research/computer-systems
@@ -23,8 +23,8 @@ Helpful links
 - Harvard https://www.seas.harvard.edu/computer-science/faculty-research
 - University of washington https://www.cs.washington.edu/research/systems/projects
 - UT Austin https://www.cs.utexas.edu/research/areas/operating-systems-distributed-systems-and-networking
-- Uiversity of Chicago https://computerscience.uchicago.edu/research/research-areas/
-- UIUC https://cs.illinois.edu/research/areas
+- [Uiversity of Chicago]( https://computerscience.uchicago.edu/research/research-areas/)
+- [UIUC]( https://cs.illinois.edu/research/areas)
 
 A, A-,A-, B, A, A-,A- 
 
