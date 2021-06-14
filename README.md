@@ -29,6 +29,8 @@ Helpful links
 - [U penn](https://highlights.cis.upenn.edu/cis-research-areas/)
 - [Northeastern University](https://www.khoury.northeastern.edu/research_areas/systems-and-networking/)
 - [NUS](https://www.comp.nus.edu.sg/about/depts/cs/research/sys-net/)
+- [NTU](https://www.ntu.edu.sg/scse/research/research-groups#Content_C027_Col00)
+- [EPFL](https://www.epfl.ch/schools/ic/research/domains/)
 
 A, A-,A-, B, A, A-,A- 
 
