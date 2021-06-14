@@ -24,6 +24,7 @@ Helpful links
 - University of washington https://www.cs.washington.edu/research/systems/projects
 - UT Austin https://www.cs.utexas.edu/research/areas/operating-systems-distributed-systems-and-networking
 - Uiversity of Chicago https://computerscience.uchicago.edu/research/research-areas/
+- UIUC https://cs.illinois.edu/research/areas
 
 A, A-,A-, B, A, A-,A- 
 
