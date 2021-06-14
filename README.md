@@ -27,6 +27,8 @@ Helpful links
 - [UIUC]( https://cs.illinois.edu/research/areas)
 - [Brown University](https://cs.brown.edu/research/areas.html)
 - [U penn](https://highlights.cis.upenn.edu/cis-research-areas/)
+- [Northeastern University](https://www.khoury.northeastern.edu/research_areas/systems-and-networking/)
+- [NUS](https://www.comp.nus.edu.sg/about/depts/cs/research/sys-net/)
 
 A, A-,A-, B, A, A-,A- 
 
