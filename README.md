@@ -42,6 +42,7 @@ Helpful links
 - [TU Delft](https://www.tudelft.nl/en/eemcs/cooperation/delft-data-science/research/research-groups)
 - [UCL](https://www.ucl.ac.uk/computer-science/research/research-groups/systems-and-networks-research-group)
 - [Imperial College London](https://www.imperial.ac.uk/computing/research/systems/)
+- [university of Twente](https://www.utwente.nl/en/education/master/programmes/computer-science/research/)
 
 
 A, A-,A-, B, A, A-,A- 
