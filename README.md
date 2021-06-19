@@ -45,6 +45,7 @@ Helpful links
 - [university of Twente](https://www.utwente.nl/en/education/master/programmes/computer-science/research/)
 - [Vanderbilt](https://www.isis.vanderbilt.edu/)
 - [Darthmouth](https://web.cs.dartmouth.edu/research/research-groups-labs)
+- [Yale](https://cpsc.yale.edu/research/yale-computer-science-research-introduction-0)
 A, A-,A-, B, A, A-,A- 
 
 
