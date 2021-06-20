@@ -47,6 +47,7 @@ Helpful links
 - [Darthmouth](https://web.cs.dartmouth.edu/research/research-groups-labs)
 - [Yale](https://cpsc.yale.edu/research/yale-computer-science-research-introduction-0)
 - [UCSD](http://www.sysnet.ucsd.edu/sysnet/)
+- [UCLA](https://www.cs.ucla.edu/research-areas/)
 
 A, A-,A-, B, A, A-,A- 
 
