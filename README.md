@@ -10,7 +10,7 @@ Areas of interest
 Helpful links 
 
 ## Research groups 
-- [CERN] (https://jobs.smartrecruiters.com/CERN/743999759491974-technical-studentships-it-mathematics-and-robotics-2021-2?trid=c3270850-b100-4fd2-8aad-40a973eec45a) deadline 11th october
+- [CERN](https://jobs.smartrecruiters.com/CERN/743999759491974-technical-studentships-it-mathematics-and-robotics-2021-2?trid=c3270850-b100-4fd2-8aad-40a973eec45a) deadline 11th october
 - [Max Plank institute ](https://www.mpi-sws.org/research-careers/#internships)
 - [University of british columbia]( https://systopia.cs.ubc.ca/news)
 - [U of Toronto ](http://csng.cs.toronto.edu/research.php)
