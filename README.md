@@ -56,6 +56,8 @@ Helpful links
 - [SUNY buffalo](https://engineering.buffalo.edu/computer-science-engineering/research/research-areas.html)
 - [UT dallas](https://cs.utdallas.edu/research/research-areas/)
 - [San jose state](https://www.sjsu.edu/cs/faculty/research.php)
+- [UC davis](https://cs.ucdavis.edu/faculty-research)
+- [UC santa barbara](https://cs.ucsb.edu/research)
 
 A, A-,A-, B, A, A-,A- 
 
