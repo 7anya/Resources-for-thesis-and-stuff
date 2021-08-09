@@ -58,6 +58,7 @@ Helpful links
 - [San jose state](https://www.sjsu.edu/cs/faculty/research.php)
 - [UC davis](https://cs.ucdavis.edu/faculty-research)
 - [UC santa barbara](https://cs.ucsb.edu/research)
+- [UC santa cruz](https://grad.soe.ucsc.edu/cse/research)
 
 A, A-,A-, B, A, A-,A- 
 
