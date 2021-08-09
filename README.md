@@ -62,6 +62,7 @@ Helpful links
 - [uni of wisconsin madison](https://www.cs.wisc.edu/)
 - [uni of maryland](https://www.cs.umd.edu/)
 - [stony brooks](https://www.cs.stonybrook.edu/)
+- [Umass lowell](https://www.uml.edu/sciences/computer-science/)
 
 A, A-,A-, B, A, A-,A- 
 
