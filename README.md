@@ -63,6 +63,7 @@ Helpful links
 - [uni of maryland](https://www.cs.umd.edu/)
 - [stony brooks](https://www.cs.stonybrook.edu/)
 - [Umass lowell](https://www.uml.edu/sciences/computer-science/)
+- [UT arlington](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)
 
 A, A-,A-, B, A, A-,A- 
 
