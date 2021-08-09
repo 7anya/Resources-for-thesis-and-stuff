@@ -54,6 +54,8 @@ Helpful links
 - [UT san antonio](https://cs.utsa.edu/people/faculty)
 - [Boston University](https://www.bu.edu/cs/research/networks/)
 - [SUNY buffalo](https://engineering.buffalo.edu/computer-science-engineering/research/research-areas.html)
+- [UT dallas](https://cs.utdallas.edu/research/research-areas/)
+- [San jose state](https://www.sjsu.edu/cs/faculty/research.php)
 
 A, A-,A-, B, A, A-,A- 
 
