@@ -14,8 +14,6 @@ Helpful links
 ### Fantasy
 - [CERN](https://jobs.smartrecruiters.com/CERN/743999759491974-technical-studentships-it-mathematics-and-robotics-2021-2?trid=c3270850-b100-4fd2-8aad-40a973eec45a) deadline 11th october
 - [Max Plank institute ](https://www.mpi-sws.org/research-careers/#internships)
-- [University of british columbia]( https://systopia.cs.ubc.ca/news)
-- [U of Toronto ](http://csng.cs.toronto.edu/research.php)
 - [Technical Univeristy of Munich ](https://www.tum.de/en/studies/degree-programs/detail/detail/StudyCourse/computational-science-and-engineering-cse-master-of-science-msc/)
 - [ETH ](https://inf.ethz.ch/research/networked-systems-parallel-computing.html)
   - [ETH Guy working on QUIC](https://netsec.ethz.ch/people/aperrig/)
@@ -26,23 +24,23 @@ Helpful links
 - [NUS](https://www.comp.nus.edu.sg/about/depts/cs/research/sys-net/)
 - [NTU](https://www.ntu.edu.sg/scse/research/research-groups#Content_C027_Col00)
 - [EPFL](https://www.epfl.ch/schools/ic/research/domains/)
-- [USC](https://www.cs.usc.edu/research/research-areas-labs/#systems)
+- [Johns Hopkins](https://www.cs.jhu.edu/research/systems/)
+- [Caltech](https://cms.caltech.edu/research/networked)
+- [Cambridge](https://www.cst.cam.ac.uk/research/themes/systems-and-networking)
+- [Yale](https://cpsc.yale.edu/research/yale-computer-science-research-introduction-0)
 
 ### Dream
-
-- [Caltech](https://cms.caltech.edu/research/networked)
+- [University of british columbia]( https://systopia.cs.ubc.ca/news)
+- [U of Toronto ](http://csng.cs.toronto.edu/research.php)
+- [USC](https://www.cs.usc.edu/research/research-areas-labs/#systems)
 - [University of Waterloo](https://cs.uwaterloo.ca/research/research-areas/systems-and-networking)
 - [University of Zurich](https://www.ifi.uzh.ch/en/research/faculty.html)
-- [Cambridge](https://www.cst.cam.ac.uk/research/themes/systems-and-networking)
-- [Johns Hopkins ](https://www.cs.jhu.edu/research/systems/)
 - [University of Edinburgh](https://www.ed.ac.uk/informatics/research/research-themes/computer-systems)
 - [TU Delft](https://www.tudelft.nl/en/eemcs/cooperation/delft-data-science/research/research-groups)
 - [UCL](https://www.ucl.ac.uk/computer-science/research/research-groups/systems-and-networks-research-group)
 - [Imperial College London](https://www.imperial.ac.uk/computing/research/systems/)
-- [university of Twente](https://www.utwente.nl/en/education/master/programmes/computer-science/research/)
 - [Vanderbilt](https://www.isis.vanderbilt.edu/)
 - [Darthmouth](https://web.cs.dartmouth.edu/research/research-groups-labs)
-- [Yale](https://cpsc.yale.edu/research/yale-computer-science-research-introduction-0)
 - [UCSD](http://www.sysnet.ucsd.edu/sysnet/)
 - [UCLA](https://www.cs.ucla.edu/research-areas/)
 - [University of Mass Amherst](https://www.cics.umass.edu/research/area/networking-and-distributed-systems)
@@ -50,6 +48,7 @@ Helpful links
 - [UIUC]( https://cs.illinois.edu/research/areas)
 - [Brown University](https://cs.brown.edu/research/areas.html)
 - Microsoft reasearch, apply in january
+-
 ### First Job
 
 - [UT san antonio](https://cs.utsa.edu/people/faculty)
@@ -61,6 +60,7 @@ Helpful links
 - [U penn](https://highlights.cis.upenn.edu/cis-research-areas/)
 - [Northeastern University](https://www.khoury.northeastern.edu/research_areas/systems-and-networking/)
 - [U of Michigan](https://cse.engin.umich.edu/research/research-areas/networking-operating-systems-distributed-systems/)
+- [university of Twente](https://www.utwente.nl/en/education/master/programmes/computer-science/research/)
 
 
 
