@@ -77,6 +77,7 @@ Helpful links
 ### First Job
 
 - [UT san antonio](https://cs.utsa.edu/people/faculty)
+- [georgia tech](https://scs.gatech.edu/content/systems)
 - [Boston University](https://www.bu.edu/cs/research/networks/)
 - [University of Sydney](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html)
 - [University of washington ](https://www.cs.washington.edu/research/systems/projects)
