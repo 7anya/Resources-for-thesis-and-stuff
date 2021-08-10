@@ -61,6 +61,7 @@ Helpful links
 - [Northeastern University](https://www.khoury.northeastern.edu/research_areas/systems-and-networking/)
 - [U of Michigan](https://cse.engin.umich.edu/research/research-areas/networking-operating-systems-distributed-systems/)
 - [university of Twente](https://www.utwente.nl/en/education/master/programmes/computer-science/research/)
+- [University of Guelph](https://www.uoguelph.ca/computing/graduates/graduate-admissions)
 
 
 
