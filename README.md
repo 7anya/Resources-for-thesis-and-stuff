@@ -10,6 +10,8 @@ Areas of interest
 Helpful links 
 
 ## Research groups 
+
+### Fantasy
 - [CERN](https://jobs.smartrecruiters.com/CERN/743999759491974-technical-studentships-it-mathematics-and-robotics-2021-2?trid=c3270850-b100-4fd2-8aad-40a973eec45a) deadline 11th october
 - [Max Plank institute ](https://www.mpi-sws.org/research-careers/#internships)
 - [University of british columbia]( https://systopia.cs.ubc.ca/news)
@@ -21,18 +23,13 @@ Helpful links
 - [Stanford](https://cs.stanford.edu/research/computer-systems)
 - [UCBerkeley](https://www2.eecs.berkeley.edu/Research/Areas/OSNT/)
 - [Harvard ](https://www.seas.harvard.edu/computer-science/faculty-research)
-- [University of washington ](https://www.cs.washington.edu/research/systems/projects)
-- [UT Austin ](https://www.cs.utexas.edu/research/areas/operating-systems-distributed-systems-and-networking)
-- [Uiversity of Chicago]( https://computerscience.uchicago.edu/research/research-areas/)
-- [UIUC]( https://cs.illinois.edu/research/areas)
-- [Brown University](https://cs.brown.edu/research/areas.html)
-- [U penn](https://highlights.cis.upenn.edu/cis-research-areas/)
-- [Northeastern University](https://www.khoury.northeastern.edu/research_areas/systems-and-networking/)
 - [NUS](https://www.comp.nus.edu.sg/about/depts/cs/research/sys-net/)
 - [NTU](https://www.ntu.edu.sg/scse/research/research-groups#Content_C027_Col00)
 - [EPFL](https://www.epfl.ch/schools/ic/research/domains/)
 - [USC](https://www.cs.usc.edu/research/research-areas-labs/#systems)
-- [U of Michigan](https://cse.engin.umich.edu/research/research-areas/networking-operating-systems-distributed-systems/)
+
+### Dream
+
 - [Caltech](https://cms.caltech.edu/research/networked)
 - [University of Waterloo](https://cs.uwaterloo.ca/research/research-areas/systems-and-networking)
 - [University of Zurich](https://www.ifi.uzh.ch/en/research/faculty.html)
@@ -50,9 +47,27 @@ Helpful links
 - [UCLA](https://www.cs.ucla.edu/research-areas/)
 - [University of Mass Amherst](https://www.cics.umass.edu/research/area/networking-and-distributed-systems)
 - [Purdue](https://www.cs.purdue.edu/research/)
-- [University of Sydney](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html)
+- [UIUC]( https://cs.illinois.edu/research/areas)
+- [Brown University](https://cs.brown.edu/research/areas.html)
+- Microsoft reasearch, apply in january
+### First Job
+
 - [UT san antonio](https://cs.utsa.edu/people/faculty)
 - [Boston University](https://www.bu.edu/cs/research/networks/)
+- [University of Sydney](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html)
+- [University of washington ](https://www.cs.washington.edu/research/systems/projects)
+- [UT Austin ](https://www.cs.utexas.edu/research/areas/operating-systems-distributed-systems-and-networking)
+- [Uiversity of Chicago]( https://computerscience.uchicago.edu/research/research-areas/)
+- [U penn](https://highlights.cis.upenn.edu/cis-research-areas/)
+- [Northeastern University](https://www.khoury.northeastern.edu/research_areas/systems-and-networking/)
+- [U of Michigan](https://cse.engin.umich.edu/research/research-areas/networking-operating-systems-distributed-systems/)
+
+
+
+
+
+
+### Zero job
 - [SUNY buffalo](https://engineering.buffalo.edu/computer-science-engineering/research/research-areas.html)
 - [UT dallas](https://cs.utdallas.edu/research/research-areas/)
 - [San jose state](https://www.sjsu.edu/cs/faculty/research.php)
@@ -64,6 +79,10 @@ Helpful links
 - [stony brooks](https://www.cs.stonybrook.edu/)
 - [Umass lowell](https://www.uml.edu/sciences/computer-science/)
 - [UT arlington](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)
+
+
+
+
 
 A, A-,A-, B, A, A-,A- 
 
