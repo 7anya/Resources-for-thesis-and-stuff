@@ -9,6 +9,8 @@ Areas of interest
 
 Helpful links 
 
+portal with open postions in EU - https://sirop.org/app?_k=pO0bCsxlOYzTqrwI 
+
 ## Research groups 
 
 ### Fantasy
