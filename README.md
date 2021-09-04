@@ -9,6 +9,7 @@ Areas of interest
 
 Helpful links 
 
+ portal with open postions in EU - https://sirop.org/app?_k=pO0bCsxlOYzTqrwI
 ## Research groups 
 - [CERN](https://jobs.smartrecruiters.com/CERN/743999759491974-technical-studentships-it-mathematics-and-robotics-2021-2?trid=c3270850-b100-4fd2-8aad-40a973eec45a) deadline 11th october
 - [Max Plank institute ](https://www.mpi-sws.org/research-careers/#internships)
