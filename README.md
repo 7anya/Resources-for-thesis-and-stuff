@@ -1,4 +1,4 @@
-# Resources-for-thesis-and-stuff
+# Answers to "How do I find profs in CS for thesis"
 <img src="https://badges.pufler.dev/visits/7anya/Resources-for-thesis-and-stuff?style=for-the-badge&color=red" /></a>
 
 Areas of interest
@@ -7,13 +7,14 @@ Areas of interest
 - OS
 - kubernetes and stuff
 
-Look at the other branch at classification of unis
+> Look at the other branch at classification of unis
 
 
 Helpful links 
 
  portal with open postions in EU - https://sirop.org/app?_k=pO0bCsxlOYzTqrwI
-## Research groups 
+ 
+## Research groups (embedded links)
 - [CERN](https://jobs.smartrecruiters.com/CERN/743999759491974-technical-studentships-it-mathematics-and-robotics-2021-2?trid=c3270850-b100-4fd2-8aad-40a973eec45a) deadline 11th october
 - [Max Plank institute ](https://www.mpi-sws.org/research-careers/#internships)
 - [University of british columbia]( https://systopia.cs.ubc.ca/news) YAYYY
