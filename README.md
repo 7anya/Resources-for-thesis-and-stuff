@@ -69,11 +69,12 @@ Helpful links
 - [Umass lowell](https://www.uml.edu/sciences/computer-science/)
 - [UT arlington](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse)
 
-A, A-,A-, B, A, A-,A- 
+
+> I dint really email all in this list. Just 4-6 realistic ones with profile matching, received 2 postitve reponses and went ahead with one, I found this better than sending 50-100 emails to random profs ;-; 
 
 
 
-## Nice Grad programs
+## Nice Grad programs (incomplete list) 
 
 - https://www.sgs.utoronto.ca/programs/computer-science/
 - https://www.tum.de/en/studies/degree-programs/detail/detail/StudyCourse/computational-science-and-engineering-cse-master-of-science-msc/
