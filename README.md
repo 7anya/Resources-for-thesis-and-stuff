@@ -1,4 +1,5 @@
 # Resources-for-thesis-and-stuff
+<img src="https://badges.pufler.dev/visits/7anya/Resources-for-thesis-and-stuff?style=for-the-badge&color=red" /></a>
 
 Areas of interest
 - Distributed computing
