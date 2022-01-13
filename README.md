@@ -9,3 +9,6 @@
 - Bloomberg LP
 - mediatek
 - IBM research
+- Gojek
+- Redhat
+-
