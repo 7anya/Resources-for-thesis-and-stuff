@@ -7,3 +7,4 @@
 - Hackerrank
 - browserstack
 - Bloomberg LP
+- mediatek
