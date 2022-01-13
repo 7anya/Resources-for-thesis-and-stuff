@@ -1,8 +1,8 @@
 
 
-# MSR
-# Uber
-# atlassian
-# sprinklr
-# Hackerrank
-# browserstack
+- MSR
+- Uber
+- atlassian
+- sprinklr
+- Hackerrank
+- browserstack
