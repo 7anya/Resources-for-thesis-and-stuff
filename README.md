@@ -6,3 +6,4 @@
 - sprinklr
 - Hackerrank
 - browserstack
+- Bloomberg LP
